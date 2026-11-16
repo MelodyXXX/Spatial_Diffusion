@@ -1,0 +1,7 @@
+torch
+google-generativeai 
+matplotlib
+torch_geometric
+kaleido
+transformers
+torch_scatter
